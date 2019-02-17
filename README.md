@@ -17,6 +17,13 @@ appear.For that we use robots.txt file .<br>
 <b>d)</b>In order to find the links on the webpage to the same domain we have used BeautifulSoup ,a python library ,to find all \<a\> tags that have links to the same domain ,ie, href="/" or href="same webpage url " and count the result in c
 (we could also have used str.count approach) <br><br>
 Following are the screenshots:-<br>
-
+1)install bs4 (BeautifulSoup)<br>
+![](images/pic11.JPG)<br>
+2)importing required packages<br>
+![](images/pic22.JPG)<br>
+3)taking url as input and calling function to check
+![](images/pic33.JPG)<br>
+4)main content<br>
+![](images/pic44.JPG)<br>
 
 
